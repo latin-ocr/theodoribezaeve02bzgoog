@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theodoribezaeve02bzgoog_0011.png"; bbox 0 0 1830 3420; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 36 181 1438 370">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 36 181 1438 370">
+     <span class='ocr_line' id='line_1_1' title="bbox 36 181 1438 370; baseline 0.007 -12"><span class='ocrx_word' id='word_1_1' title='bbox 36 181 1438 370; x_wconf 76' lang='lat' dir='ltr'> THEODOR1.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 26 500 1515 721">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 26 500 1515 721">
+     <span class='ocr_line' id='line_1_2' title="bbox 26 500 1515 721; baseline -0.001 0"><span class='ocrx_word' id='word_1_2' title='bbox 26 500 604 721; x_wconf 81' lang='lat' dir='ltr'><em>BEZAE</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 714 596 1515 720; x_wconf 90' lang='lat' dir='ltr'><em>VEZELII</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 303 936 1253 1030">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 303 936 1253 1030">
+     <span class='ocr_line' id='line_1_3' title="bbox 303 936 1253 1030; baseline 0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 303 936 1253 1030; x_wconf 69' lang='lat' dir='ltr'><strong>‚POEMATA;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 402 1552 1049 2101">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 402 1552 1049 2101">
+     <span class='ocr_line' id='line_1_4' title="bbox 402 1552 1049 2101; baseline 0 1319"><span class='ocrx_word' id='word_1_5' title='bbox 402 1552 1049 2101; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 145 2379 1439 2804">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 145 2379 1439 2804">
+     <span class='ocr_line' id='line_1_5' title="bbox 145 2379 1439 2515; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 145 2445 682 2515; x_wconf 73' lang='lat' dir='ltr'><strong><em>LUGDUNI</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 750 2379 1439 2512; x_wconf 66' lang='lat' dir='ltr'><strong><em>RATAVORUM.</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 263 2597 1322 2654; baseline -0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 263 2597 1322 2654; x_wconf 44' lang='grc' dir='ltr'>Η</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 291 2726 1230 2804; baseline 0 -4"><span class='ocrx_word' id='word_1_9' title='bbox 291 2729 433 2802; x_wconf 82' lang='grc' dir='ltr'><strong>,Μ</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 513 2728 802 2804; x_wconf 87' lang='lat' dir='ltr'><strong>DCC</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 881 2726 1230 2803; x_wconf 86' lang='lat' dir='ltr'><strong>LVII.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
